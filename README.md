@@ -48,9 +48,11 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 ## Featured Projects
 
 <!-- Add your best projects here -->
-- **[Glorp](https://github.com/slavcp/glorp)** - Contributor to this project ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/slavcp/glorp/total)
-<!-- - **[Project Name 2]** - Brief description -->
-<!-- - **[Project Name 3]** - Brief description -->
+- **[Glorp](https://github.com/slavcp/glorp)** - A performance client for Krunker that I contributed to ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/slavcp/glorp/total)
+- **[6502 CPU Emulator](https://github.com/IrregularPersona/6502-CPU-Emulator)** - A complete 6502 processor emulator showcasing systems programming and computer architecture knowledge
+- **[sTrack](https://github.com/IrregularPersona/sTrack)** - Stock tracker application built with ImGui for real-time market monitoring
+- **[WhatsApp Clone](https://github.com/IrregularPersona/whatsapp-clone-react)** - Full-stack messaging application built with React
+- **[Portfolio](https://github.com/IrregularPersona/portfolio)** - Personal portfolio website showcasing my projects and skills
 
 ---
 
