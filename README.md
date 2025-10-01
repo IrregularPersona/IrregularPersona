@@ -48,9 +48,9 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 ## Featured Projects
 
 <!-- Add your best projects here -->
-- **[Project Name 1]** - Brief description
-- **[Project Name 2]** - Brief description
-- **[Project Name 3]** - Brief description
+- **[Glorp](https://github.com/slavcp/glorp)** - Contributor to this project ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/slavcp/glorp/total)
+<!-- - **[Project Name 2]** - Brief description -->
+<!-- - **[Project Name 3]** - Brief description -->
 
 ---
 
