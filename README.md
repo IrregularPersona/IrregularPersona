@@ -41,35 +41,29 @@ I'm a passionate developer who loves building efficient and scalable solutions. 
 
 ---
 
-## GitHub Stats
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrregularPersona&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrregularPersona&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IrregularPersona&theme=tokyonight&hide_border=true)
-
----
-
 ## Projects
 
 <!-- Add your best projects here -->
 - **[Glorp](https://github.com/slavcp/glorp)** - A performance client for Krunker that I contributed to which has => ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/slavcp/glorp/total)
-- **[6502 CPU Emulator](https://github.com/IrregularPersona/6502-CPU-Emulator)** - A incomplete 6502 processor emulator showcasing systems programming and computer architecture knowledge
-- **[sTrack](https://github.com/IrregularPersona/sTrack)** - Stock tracker application built with ImGui for real-time market monitoring
+-  **[TypTaps](https://github.com/IrregularPersona/TypTaps)** - A native Typst renderer made with iced-rs, and the Typst CLI.
+-  **[Krunker-rs](https://github.com/IrregularPersona/krunker-rs)** and **[Krunker++](https://github.com/IrregularPersona/krunker-plusplus)** - A Krunker API wrapper made both in Rust and C++, with the goal of being as simple and error-friendly as possible.
+-  **[Polyglot Numbers](https://github.com/IrregularPersona/polyglot-numbers)** - Get the written form of numbers in Typst in any language (hopefully).
+-  **[TheAlgorithms in Dlang](https://github.com/IrregularPersona/TheAlgorithms-in-Dlang)** - Implementations of dozens of algorithms in the D Programming Language. 
+<!-- - **[6502 CPU Emulator](https://github.com/IrregularPersona/6502-CPU-Emulator)** - A incomplete 6502 processor emulator showcasing systems programming and computer architecture knowledge -->
+<!-- - **[sTrack](https://github.com/IrregularPersona/sTrack)** - Stock tracker application built with ImGui for real-time market monitoring -->
 - **[Portfolio](https://github.com/IrregularPersona/portfolio)** - Personal portfolio website showcasing my projects and skills
 
 ---
 
 ## Connect With Me
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-syafiq-hartono) -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-syafiq-hartono)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IrregularPersona@gmail.com)
 
 ---
   
-### From [IrregularPersona](https://github.com/IrregularPersona)
+<!-- ### From [IrregularPersona](https://github.com/IrregularPersona)
 
-![Profile Views](https://komarev.com/ghpvc/?username=IrregularPersona&color=blueviolet&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=IrregularPersona&color=blueviolet&style=for-the-badge) -->
 
